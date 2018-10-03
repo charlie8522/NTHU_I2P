@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1521738070 source:c:\users\charlie\desktop\christmas_tree\main.c
+	<stdio.h>
+	<stdlib.h>
+

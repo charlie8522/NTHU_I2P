@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1525022164 source:c:\users\charlie\desktop\check_palindrome\11896.c
+	<stdio.h>
+	<string.h>
+	"11896.h"
+	"NTHUOJLock"
+
+1525023683 c:\users\charlie\desktop\check_palindrome\11896.h
+

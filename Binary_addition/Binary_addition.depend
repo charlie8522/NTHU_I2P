@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1520446690 source:c:\users\charlie\desktop\binary_addition\main.c
+	<stdio.h>
+	<stdlib.h>
+
