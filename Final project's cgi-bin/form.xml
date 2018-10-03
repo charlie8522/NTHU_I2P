@@ -1,0 +1,52 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN">
+<html>
+<head>
+  <title>Final_project</title>
+  <style type="text/css">
+  body {
+    font-family: Georgia, "Times New Roman",
+          Times, serif;
+    color: purple;
+    background-color: #d8da3d }
+  h1 {
+    font-family: Helvetica, Geneva, Arial,
+          SunSans-Regular, sans-serif }
+  </style>
+</head>
+
+<br><b>ADD NEW MESSAGE</b><br>
+<form method="POST" enctype="text/plain">
+	Name:<br>
+	<input type="text" name="firstname" value="%s"><input type="text" name="lastname" value="%s"><br>
+	Text:<br>
+	<input type="text" name="msg" value="Text %d">
+	<input type="submit" value="Submit">
+	<input type="hidden" name="lastpage" value="index">
+	<input type="hidden" name="token" value="%s">
+</form>
+<br><b>DELETE MESSAGE </b><br>
+<form action=/cgi-bin/del.exe method="POST" enctype="text/plain">
+	<input type="hidden" name="lastpage" value="index">
+	ID: <input type="text" name="id">
+	<input type="submit" value="Delete">
+</form>
+<br><b>SAVE HISTORY</b><br>
+<form action=/cgi-bin/save.exe method="POST" enctype="text/plain">
+	<input type="hidden" name="lastpage" value="index">
+	Year:<input type="text" name="year">
+	Month:<input type="text" name="month">
+	Date:<input type="text" name="date">
+    Name:<input type="text" name="id">
+	<input type="submit" value="Save">
+</form>
+<br><b>HISTORY REMOVE</b><br>
+<form action=/cgi-bin/clear.exe method="POST" enctype="text/plain">
+<input type="submit" value="CLEAR">
+</form>
+<A HREF ="https://www.youtube.com/watch?v=hlUQCA1jjWE"><marquee direction="right"width="500"><img  src="https://imgur.com/l0tdMmA.jpg"></marquee>
+<form name="form1" action=/cgi-bin/index.exe method="POST" enctype="text/plain">
+<input type="hidden" name="lastpage" value="clear-db">
+<br><a href="javascript:document.form1.submit();"><b>CLEAR DATABASE AND GET FULL SCORE</b></a><br>
+<img src="https://truth.bahamut.com.tw/s01/201803/6b63c1abbc353bca91b5c8d65cd317e3.PNG">
+</form>
+
