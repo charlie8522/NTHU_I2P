@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1526388674 source:c:\users\charlie\desktop\recorder\11921.c
+	<stdio.h>
+	"11921.h"
+	"NTHUOJLock"
+
+1526389183 c:\users\charlie\desktop\recorder\11921.h
+

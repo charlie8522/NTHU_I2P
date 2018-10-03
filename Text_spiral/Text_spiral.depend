@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1523457265 source:c:\users\charlie\desktop\text_spiral\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1523537267 source:c:\users\charlie\desktop\text_spiral\q06.c
+	<stdio.h>
+

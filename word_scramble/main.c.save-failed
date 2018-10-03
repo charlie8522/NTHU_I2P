@@ -1,0 +1,31 @@
+#include <stdio.h>
+#include <stdlib.h>
+#include <string.h>
+char string[350];
+
+int main()
+{
+    int length;
+    int i;
+    while(scanf("%s",string) != EOF)
+    {
+        length = strlen(string);
+        for (i = length-1; i >= 0; i--)
+        {
+            putchar(string[i]);
+        }
+        while(getchar())
+        {
+            if (getchar()== ' ')
+        {
+            putchar(' ');
+        }
+        else if (getchar()=='\n')
+        {
+            putchar('\n');
+        }
+        }
+
+    }
+    return 0;
+}

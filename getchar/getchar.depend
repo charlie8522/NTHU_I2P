@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1523108071 source:c:\users\charlie\desktop\getchar\11862.c
+	<stdio.h>
+	<string.h>
+	"11862.h"
+
+1523105887 c:\users\charlie\desktop\getchar\11862.h
+

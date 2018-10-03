@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1523122847 source:c:\users\charlie\desktop\word_scramble\main.c
+	<stdio.h>
+	<string.h>
+
