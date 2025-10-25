@@ -1,0 +1,321 @@
+# depslib dependency file v1.0
+1388339790 source:d:\i2p2013\lecture_code\animation\audio.c
+	"audio.h"
+
+1260885116 d:\i2p2013\lecture_code\animation\audio.h
+	<windows.h>
+	<mmsystem.h>
+	<stdio.h>
+	<stdlib.h>
+
+1231335102 source:d:\i2p2013\lecture_code\animation\console_draw2.c
+	"console_draw2.h"
+
+1388781506 d:\i2p2013\lecture_code\animation\console_draw2.h
+	<windows.h>
+
+1197485698 source:d:\i2p2013\lecture_code\animation\kb_input2.c
+	"kb_input2.h"
+
+1197486290 d:\i2p2013\lecture_code\animation\kb_input2.h
+	<windows.h>
+
+1388813837 source:d:\i2p2013\lecture_code\animation\animation.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<windows.h>
+	<mmsystem.h>
+	"audio.h"
+	"console_draw2.h"
+	"kb_input2.h"
+
+1388339790 source:d:\i2p2013\lecture_code\animation_2\audio.c
+	"audio.h"
+
+1260885116 d:\i2p2013\lecture_code\animation_2\audio.h
+	<windows.h>
+	<mmsystem.h>
+	<stdio.h>
+	<stdlib.h>
+
+1231335102 source:d:\i2p2013\lecture_code\animation_2\console_draw2.c
+	"console_draw2.h"
+
+1388781506 d:\i2p2013\lecture_code\animation_2\console_draw2.h
+	<windows.h>
+
+1197485698 source:d:\i2p2013\lecture_code\animation_2\kb_input2.c
+	"kb_input2.h"
+
+1197486290 d:\i2p2013\lecture_code\animation_2\kb_input2.h
+	<windows.h>
+
+1388997845 source:d:\i2p2013\lecture_code\animation_2\animation.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<windows.h>
+	<mmsystem.h>
+	"audio.h"
+	"console_draw2.h"
+	"kb_input2.h"
+
+1450435332 source:d:\programming\final project\term_project_toolbox\animation\animation.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<windows.h>
+	<mmsystem.h>
+	"audio.h"
+	"console_draw3.h"
+	"kb_input2.h"
+
+1260885116 d:\programming\final project\term_project_toolbox\animation\audio.h
+	<windows.h>
+	<mmsystem.h>
+	<stdio.h>
+	<stdlib.h>
+
+1388781506 d:\programming\final project\term_project_toolbox\animation\console_draw2.h
+	<windows.h>
+
+1197486290 d:\programming\final project\term_project_toolbox\animation\kb_input2.h
+	<windows.h>
+
+1388339790 source:d:\programming\final project\term_project_toolbox\animation\audio.c
+	"audio.h"
+
+1231335102 source:d:\programming\final project\term_project_toolbox\animation\console_draw2.c
+	"console_draw2.h"
+
+1197485698 source:d:\programming\final project\term_project_toolbox\animation\kb_input2.c
+	"kb_input2.h"
+
+1450433572 source:d:\programming\final project\term_project_toolbox\animation\console_draw3.c
+	<windows.h>
+	<string.h>
+	"console_draw3.h"
+
+1419998119 d:\programming\final project\term_project_toolbox\animation\console_draw3.h
+
+1450435332 source:f:\i2p(1)_2015\final project\toolbox_for_student\폻ⓕ\animation\animation.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<windows.h>
+	<mmsystem.h>
+	"audio.h"
+	"console_draw3.h"
+	"kb_input2.h"
+
+1260885116 f:\i2p(1)_2015\final project\toolbox_for_student\폻ⓕ\animation\audio.h
+	<windows.h>
+	<mmsystem.h>
+	<stdio.h>
+	<stdlib.h>
+
+1419998119 f:\i2p(1)_2015\final project\toolbox_for_student\폻ⓕ\animation\console_draw3.h
+
+1197486290 f:\i2p(1)_2015\final project\toolbox_for_student\폻ⓕ\animation\kb_input2.h
+	<windows.h>
+
+1388339790 source:f:\i2p(1)_2015\final project\toolbox_for_student\폻ⓕ\animation\audio.c
+	"audio.h"
+
+1450433572 source:f:\i2p(1)_2015\final project\toolbox_for_student\폻ⓕ\animation\console_draw3.c
+	<windows.h>
+	<string.h>
+	"console_draw3.h"
+
+1197485698 source:f:\i2p(1)_2015\final project\toolbox_for_student\폻ⓕ\animation\kb_input2.c
+	"kb_input2.h"
+
+1388339790 source:i:\i2p(1)_2015\final project\toolbox_for_student\폻ⓕ\animation\audio.c
+	"audio.h"
+
+1260885116 i:\i2p(1)_2015\final project\toolbox_for_student\폻ⓕ\animation\audio.h
+	<windows.h>
+	<mmsystem.h>
+	<stdio.h>
+	<stdlib.h>
+
+1450433572 source:i:\i2p(1)_2015\final project\toolbox_for_student\폻ⓕ\animation\console_draw3.c
+	<windows.h>
+	<string.h>
+	"console_draw3.h"
+
+1419998119 i:\i2p(1)_2015\final project\toolbox_for_student\폻ⓕ\animation\console_draw3.h
+
+1197485698 source:i:\i2p(1)_2015\final project\toolbox_for_student\폻ⓕ\animation\kb_input2.c
+	"kb_input2.h"
+
+1197486290 i:\i2p(1)_2015\final project\toolbox_for_student\폻ⓕ\animation\kb_input2.h
+	<windows.h>
+
+1450685285 source:i:\i2p(1)_2015\final project\toolbox_for_student\폻ⓕ\animation\animation.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<windows.h>
+	<mmsystem.h>
+	"audio.h"
+	"console_draw3.h"
+	"kb_input2.h"
+	"image.h"
+
+1419989929 i:\i2p(1)_2015\final project\toolbox_for_student\폻ⓕ\animation\image.h
+
+1419990305 source:i:\i2p(1)_2015\final project\toolbox_for_student\폻ⓕ\animation\image.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<windows.h>
+	"console_draw3.h"
+	"kb_input2.h"
+	"image.h"
+
+1450685403 source:c:\users\ydnaa\onedrive\documents\eecs_i2p\final_project\toolbox_for_student\toolbox_for_student\폻ⓕ\animation\animation.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<windows.h>
+	<mmsystem.h>
+	"audio.h"
+	"console_draw3.h"
+	"kb_input2.h"
+	"image.h"
+
+1260885116 c:\users\ydnaa\onedrive\documents\eecs_i2p\final_project\toolbox_for_student\toolbox_for_student\폻ⓕ\animation\audio.h
+	<windows.h>
+	<mmsystem.h>
+	<stdio.h>
+	<stdlib.h>
+
+1419998119 c:\users\ydnaa\onedrive\documents\eecs_i2p\final_project\toolbox_for_student\toolbox_for_student\폻ⓕ\animation\console_draw3.h
+
+1197486290 c:\users\ydnaa\onedrive\documents\eecs_i2p\final_project\toolbox_for_student\toolbox_for_student\폻ⓕ\animation\kb_input2.h
+	<windows.h>
+
+1419989929 c:\users\ydnaa\onedrive\documents\eecs_i2p\final_project\toolbox_for_student\toolbox_for_student\폻ⓕ\animation\image.h
+
+1388339790 source:c:\users\ydnaa\onedrive\documents\eecs_i2p\final_project\toolbox_for_student\toolbox_for_student\폻ⓕ\animation\audio.c
+	"audio.h"
+
+1450433572 source:c:\users\ydnaa\onedrive\documents\eecs_i2p\final_project\toolbox_for_student\toolbox_for_student\폻ⓕ\animation\console_draw3.c
+	<windows.h>
+	<string.h>
+	"console_draw3.h"
+
+1419990305 source:c:\users\ydnaa\onedrive\documents\eecs_i2p\final_project\toolbox_for_student\toolbox_for_student\폻ⓕ\animation\image.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<windows.h>
+	"console_draw3.h"
+	"kb_input2.h"
+	"image.h"
+
+1197485698 source:c:\users\ydnaa\onedrive\documents\eecs_i2p\final_project\toolbox_for_student\toolbox_for_student\폻ⓕ\animation\kb_input2.c
+	"kb_input2.h"
+
+1388339790 source:c:\users\colin\desktop\toolbox_for_student\폻ⓕ\animation\audio.c
+	"audio.h"
+
+1260885116 c:\users\colin\desktop\toolbox_for_student\폻ⓕ\animation\audio.h
+	<windows.h>
+	<mmsystem.h>
+	<stdio.h>
+	<stdlib.h>
+
+1481704330 source:c:\users\colin\desktop\toolbox_for_student\폻ⓕ\animation\image.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<windows.h>
+	"console_draw3.h"
+	"kb_input2.h"
+	"image.h"
+
+1481702208 c:\users\colin\desktop\toolbox_for_student\폻ⓕ\animation\console_draw3.h
+
+1197486290 c:\users\colin\desktop\toolbox_for_student\폻ⓕ\animation\kb_input2.h
+	<windows.h>
+
+1419989929 c:\users\colin\desktop\toolbox_for_student\폻ⓕ\animation\image.h
+
+1197485698 source:c:\users\colin\desktop\toolbox_for_student\폻ⓕ\animation\kb_input2.c
+	"kb_input2.h"
+
+1481704285 source:c:\users\colin\desktop\toolbox_for_student\폻ⓕ\animation\animation.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<windows.h>
+	<mmsystem.h>
+	"audio.h"
+	"console_draw3.h"
+	"kb_input2.h"
+	"image.h"
+
+1481702209 source:c:\users\colin\desktop\toolbox_for_student\폻ⓕ\animation\console_draw3.c
+	<windows.h>
+	<string.h>
+	"console_draw3.h"
+
+1388339792 source:c:\users\nthucs\desktop\toolbox_for_student\폻ⓕ\animation\audio.c
+	"audio.h"
+
+1260885116 c:\users\nthucs\desktop\toolbox_for_student\폻ⓕ\animation\audio.h
+	<windows.h>
+	<mmsystem.h>
+	<stdio.h>
+	<stdlib.h>
+
+1481702210 source:c:\users\nthucs\desktop\toolbox_for_student\폻ⓕ\animation\console_draw3.c
+	<windows.h>
+	<string.h>
+	"console_draw3.h"
+
+1481851486 c:\users\nthucs\desktop\toolbox_for_student\폻ⓕ\animation\console_draw3.h
+
+1197485698 source:c:\users\nthucs\desktop\toolbox_for_student\폻ⓕ\animation\kb_input2.c
+	"kb_input2.h"
+
+1197486290 c:\users\nthucs\desktop\toolbox_for_student\폻ⓕ\animation\kb_input2.h
+	<windows.h>
+
+1481851602 source:c:\users\nthucs\desktop\toolbox_for_student\폻ⓕ\animation\animation.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<windows.h>
+	<mmsystem.h>
+	"audio.h"
+	"console_draw3.h"
+	"kb_input2.h"
+	"image.h"
+
+1419989930 c:\users\nthucs\desktop\toolbox_for_student\폻ⓕ\animation\image.h
+
+1481704440 source:c:\users\nthucs\desktop\toolbox_for_student\폻ⓕ\animation\image.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<windows.h>
+	"console_draw3.h"
+	"kb_input2.h"
+	"image.h"
+

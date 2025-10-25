@@ -1,0 +1,71 @@
+# depslib dependency file v1.0
+1450434237 source:d:\codeblocks\workspace\keyboard\audio.c
+	"audio.h"
+
+1450434237 d:\codeblocks\workspace\keyboard\audio.h
+	<windows.h>
+	<mmsystem.h>
+	<stdio.h>
+	<stdlib.h>
+
+1450434237 source:d:\codeblocks\workspace\keyboard\console_draw3.c
+	<windows.h>
+	<string.h>
+	"console_draw3.h"
+
+1450434237 d:\codeblocks\workspace\keyboard\console_draw3.h
+
+1450435169 source:d:\codeblocks\workspace\keyboard\kb_input2.c
+	"kb_input2.h"
+
+1450436465 source:d:\codeblocks\workspace\keyboard\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<windows.h>
+	<mmsystem.h>
+	"audio.h"
+	"console_draw3.h"
+	"kb_input2.h"
+
+1450434237 d:\codeblocks\workspace\keyboard\kb_input2.h
+	<windows.h>
+
+1450434237 source:d:\downloads\toolbox_for_student\폻ⓕ\keyboard\audio.c
+	"audio.h"
+
+1450434237 d:\downloads\toolbox_for_student\폻ⓕ\keyboard\audio.h
+	<windows.h>
+	<mmsystem.h>
+	<stdio.h>
+	<stdlib.h>
+
+1481690261 source:d:\downloads\toolbox_for_student\폻ⓕ\keyboard\console_draw3.c
+	<windows.h>
+	<string.h>
+	"console_draw3.h"
+
+1481631877 d:\downloads\toolbox_for_student\폻ⓕ\keyboard\console_draw3.h
+
+1450435169 source:d:\downloads\toolbox_for_student\폻ⓕ\keyboard\kb_input2.c
+	"kb_input2.h"
+
+1450434237 d:\downloads\toolbox_for_student\폻ⓕ\keyboard\kb_input2.h
+	<windows.h>
+
+1450434238 source:c:\users\nthucs\desktop\toolbox_for_student\폻ⓕ\keyboard\audio.c
+	"audio.h"
+
+1450434238 c:\users\nthucs\desktop\toolbox_for_student\폻ⓕ\keyboard\audio.h
+	<windows.h>
+	<mmsystem.h>
+	<stdio.h>
+	<stdlib.h>
+
+1450435170 source:c:\users\nthucs\desktop\toolbox_for_student\폻ⓕ\keyboard\kb_input2.c
+	"kb_input2.h"
+
+1450434238 c:\users\nthucs\desktop\toolbox_for_student\폻ⓕ\keyboard\kb_input2.h
+	<windows.h>
+

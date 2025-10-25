@@ -1,0 +1,556 @@
+# depslib dependency file v1.0
+1419990365 source:d:\i2p2014\term\final_proj\audio.c
+	"audio.h"
+
+1260885116 d:\i2p2014\term\final_proj\audio.h
+	<windows.h>
+	<mmsystem.h>
+	<stdio.h>
+	<stdlib.h>
+
+1420017857 source:d:\i2p2014\term\final_proj\console_draw3.c
+	<windows.h>
+	<string.h>
+	"console_draw3.h"
+
+1419998119 d:\i2p2014\term\final_proj\console_draw3.h
+
+1419990296 source:d:\i2p2014\term\final_proj\font.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<ctype.h>
+	<windows.h>
+	"console_draw3.h"
+	"kb_input2.h"
+	"font.h"
+
+1197486290 d:\i2p2014\term\final_proj\kb_input2.h
+	<windows.h>
+
+1419989950 d:\i2p2014\term\final_proj\font.h
+
+1419998264 source:d:\i2p2014\term\final_proj\framework.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<windows.h>
+	"console_draw3.h"
+	"kb_input2.h"
+	"font.h"
+	"framework.h"
+
+1420006906 d:\i2p2014\term\final_proj\framework.h
+	"font.h"
+
+1419990305 source:d:\i2p2014\term\final_proj\image.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<windows.h>
+	"console_draw3.h"
+	"kb_input2.h"
+	"image.h"
+
+1419989929 d:\i2p2014\term\final_proj\image.h
+
+1419988852 source:d:\i2p2014\term\final_proj\kb_input2.c
+	"kb_input2.h"
+
+1419990365 source:c:\users\wooder\desktop\final_proj\audio.c
+	"audio.h"
+
+1260885116 c:\users\wooder\desktop\final_proj\audio.h
+	<windows.h>
+	<mmsystem.h>
+	<stdio.h>
+	<stdlib.h>
+
+1420017857 source:c:\users\wooder\desktop\final_proj\console_draw3.c
+	<windows.h>
+	<string.h>
+	"console_draw3.h"
+
+1419998119 c:\users\wooder\desktop\final_proj\console_draw3.h
+
+1419990296 source:c:\users\wooder\desktop\final_proj\font.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<ctype.h>
+	<windows.h>
+	"console_draw3.h"
+	"kb_input2.h"
+	"font.h"
+
+1197486290 c:\users\wooder\desktop\final_proj\kb_input2.h
+	<windows.h>
+
+1419989950 c:\users\wooder\desktop\final_proj\font.h
+
+1419998264 source:c:\users\wooder\desktop\final_proj\framework.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<windows.h>
+	"console_draw3.h"
+	"kb_input2.h"
+	"font.h"
+	"framework.h"
+
+1420006906 c:\users\wooder\desktop\final_proj\framework.h
+	"font.h"
+
+1419990305 source:c:\users\wooder\desktop\final_proj\image.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<windows.h>
+	"console_draw3.h"
+	"kb_input2.h"
+	"image.h"
+
+1419989929 c:\users\wooder\desktop\final_proj\image.h
+
+1419988852 source:c:\users\wooder\desktop\final_proj\kb_input2.c
+	"kb_input2.h"
+
+1420018649 source:c:\users\wooder\desktop\final_proj\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<windows.h>
+	<mmsystem.h>
+	"audio.h"
+	"console_draw3.h"
+	"kb_input2.h"
+	"font.h"
+	"image.h"
+	"framework.h"
+
+1419990365 source:c:\users\leaf\desktop\introduction to programming\final_project\final_proj\audio.c
+	"audio.h"
+
+1260885116 c:\users\leaf\desktop\introduction to programming\final_project\final_proj\audio.h
+	<windows.h>
+	<mmsystem.h>
+	<stdio.h>
+	<stdlib.h>
+
+1420017857 source:c:\users\leaf\desktop\introduction to programming\final_project\final_proj\console_draw3.c
+	<windows.h>
+	<string.h>
+	"console_draw3.h"
+
+1419998119 c:\users\leaf\desktop\introduction to programming\final_project\final_proj\console_draw3.h
+
+1419990296 source:c:\users\leaf\desktop\introduction to programming\final_project\final_proj\font.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<ctype.h>
+	<windows.h>
+	"console_draw3.h"
+	"kb_input2.h"
+	"font.h"
+
+1197486290 c:\users\leaf\desktop\introduction to programming\final_project\final_proj\kb_input2.h
+	<windows.h>
+
+1419989950 c:\users\leaf\desktop\introduction to programming\final_project\final_proj\font.h
+
+1419998264 source:c:\users\leaf\desktop\introduction to programming\final_project\final_proj\framework.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<windows.h>
+	"console_draw3.h"
+	"kb_input2.h"
+	"font.h"
+	"framework.h"
+
+1420006906 c:\users\leaf\desktop\introduction to programming\final_project\final_proj\framework.h
+	"font.h"
+
+1419990305 source:c:\users\leaf\desktop\introduction to programming\final_project\final_proj\image.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<windows.h>
+	"console_draw3.h"
+	"kb_input2.h"
+	"image.h"
+
+1419989929 c:\users\leaf\desktop\introduction to programming\final_project\final_proj\image.h
+
+1419988852 source:c:\users\leaf\desktop\introduction to programming\final_project\final_proj\kb_input2.c
+	"kb_input2.h"
+
+1420428749 source:c:\users\leaf\desktop\introduction to programming\final_project\final_proj\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<windows.h>
+	<mmsystem.h>
+	"audio.h"
+	"console_draw3.h"
+	"kb_input2.h"
+	"font.h"
+	"image.h"
+	"framework.h"
+
+1419990365 source:c:\users\leaf\desktop\final_proj\audio.c
+	"audio.h"
+
+1260885116 c:\users\leaf\desktop\final_proj\audio.h
+	<windows.h>
+	<mmsystem.h>
+	<stdio.h>
+	<stdlib.h>
+
+1420017857 source:c:\users\leaf\desktop\final_proj\console_draw3.c
+	<windows.h>
+	<string.h>
+	"console_draw3.h"
+
+1419998119 c:\users\leaf\desktop\final_proj\console_draw3.h
+
+1419990296 source:c:\users\leaf\desktop\final_proj\font.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<ctype.h>
+	<windows.h>
+	"console_draw3.h"
+	"kb_input2.h"
+	"font.h"
+
+1197486290 c:\users\leaf\desktop\final_proj\kb_input2.h
+	<windows.h>
+
+1419989950 c:\users\leaf\desktop\final_proj\font.h
+
+1419998264 source:c:\users\leaf\desktop\final_proj\framework.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<windows.h>
+	"console_draw3.h"
+	"kb_input2.h"
+	"font.h"
+	"framework.h"
+
+1420006906 c:\users\leaf\desktop\final_proj\framework.h
+	"font.h"
+
+1419990305 source:c:\users\leaf\desktop\final_proj\image.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<windows.h>
+	"console_draw3.h"
+	"kb_input2.h"
+	"image.h"
+
+1419989929 c:\users\leaf\desktop\final_proj\image.h
+
+1419988852 source:c:\users\leaf\desktop\final_proj\kb_input2.c
+	"kb_input2.h"
+
+1450354164 source:c:\users\leaf\desktop\final_proj\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<windows.h>
+	<mmsystem.h>
+	"audio.h"
+	"console_draw3.h"
+	"kb_input2.h"
+	"font.h"
+	"image.h"
+	"framework.h"
+
+1419990365 source:c:\users\cha\desktop\toolbox_for_student\폻ⓕ\framework\audio.c
+	"audio.h"
+
+1260885116 c:\users\cha\desktop\toolbox_for_student\폻ⓕ\framework\audio.h
+	<windows.h>
+	<mmsystem.h>
+	<stdio.h>
+	<stdlib.h>
+
+1420017857 source:c:\users\cha\desktop\toolbox_for_student\폻ⓕ\framework\console_draw3.c
+	<windows.h>
+	<string.h>
+	"console_draw3.h"
+
+1419998119 c:\users\cha\desktop\toolbox_for_student\폻ⓕ\framework\console_draw3.h
+
+1419990296 source:c:\users\cha\desktop\toolbox_for_student\폻ⓕ\framework\font.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<ctype.h>
+	<windows.h>
+	"console_draw3.h"
+	"kb_input2.h"
+	"font.h"
+
+1197486290 c:\users\cha\desktop\toolbox_for_student\폻ⓕ\framework\kb_input2.h
+	<windows.h>
+
+1419989950 c:\users\cha\desktop\toolbox_for_student\폻ⓕ\framework\font.h
+
+1419998264 source:c:\users\cha\desktop\toolbox_for_student\폻ⓕ\framework\framework.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<windows.h>
+	"console_draw3.h"
+	"kb_input2.h"
+	"font.h"
+	"framework.h"
+
+1420006906 c:\users\cha\desktop\toolbox_for_student\폻ⓕ\framework\framework.h
+	"font.h"
+
+1419990305 source:c:\users\cha\desktop\toolbox_for_student\폻ⓕ\framework\image.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<windows.h>
+	"console_draw3.h"
+	"kb_input2.h"
+	"image.h"
+
+1419989929 c:\users\cha\desktop\toolbox_for_student\폻ⓕ\framework\image.h
+
+1419988852 source:c:\users\cha\desktop\toolbox_for_student\폻ⓕ\framework\kb_input2.c
+	"kb_input2.h"
+
+1450354164 source:c:\users\cha\desktop\toolbox_for_student\폻ⓕ\framework\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<windows.h>
+	<mmsystem.h>
+	"audio.h"
+	"console_draw3.h"
+	"kb_input2.h"
+	"font.h"
+	"image.h"
+	"framework.h"
+
+1419990365 source:d:\download\toolbox_for_student\폻ⓕ\framework\audio.c
+	"audio.h"
+
+1260885116 d:\download\toolbox_for_student\폻ⓕ\framework\audio.h
+	<windows.h>
+	<mmsystem.h>
+	<stdio.h>
+	<stdlib.h>
+
+1419990296 source:d:\download\toolbox_for_student\폻ⓕ\framework\font.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<ctype.h>
+	<windows.h>
+	"console_draw3.h"
+	"kb_input2.h"
+	"font.h"
+
+1481631877 d:\download\toolbox_for_student\폻ⓕ\framework\console_draw3.h
+
+1197486290 d:\download\toolbox_for_student\폻ⓕ\framework\kb_input2.h
+	<windows.h>
+
+1419989950 d:\download\toolbox_for_student\폻ⓕ\framework\font.h
+
+1419998264 source:d:\download\toolbox_for_student\폻ⓕ\framework\framework.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<windows.h>
+	"console_draw3.h"
+	"kb_input2.h"
+	"font.h"
+	"framework.h"
+
+1420006906 d:\download\toolbox_for_student\폻ⓕ\framework\framework.h
+	"font.h"
+
+1419988852 source:d:\download\toolbox_for_student\폻ⓕ\framework\kb_input2.c
+	"kb_input2.h"
+
+1419990365 source:c:\users\colin\desktop\toolbox_for_student\폻ⓕ\framework\audio.c
+	"audio.h"
+
+1260885116 c:\users\colin\desktop\toolbox_for_student\폻ⓕ\framework\audio.h
+	<windows.h>
+	<mmsystem.h>
+	<stdio.h>
+	<stdlib.h>
+
+1481702810 source:c:\users\colin\desktop\toolbox_for_student\폻ⓕ\framework\font.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<ctype.h>
+	<windows.h>
+	"console_draw3.h"
+	"kb_input2.h"
+	"font.h"
+
+1481702208 c:\users\colin\desktop\toolbox_for_student\폻ⓕ\framework\console_draw3.h
+
+1197486290 c:\users\colin\desktop\toolbox_for_student\폻ⓕ\framework\kb_input2.h
+	<windows.h>
+
+1419989950 c:\users\colin\desktop\toolbox_for_student\폻ⓕ\framework\font.h
+
+1419998264 source:c:\users\colin\desktop\toolbox_for_student\폻ⓕ\framework\framework.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<windows.h>
+	"console_draw3.h"
+	"kb_input2.h"
+	"font.h"
+	"framework.h"
+
+1420006906 c:\users\colin\desktop\toolbox_for_student\폻ⓕ\framework\framework.h
+	"font.h"
+
+1481690960 source:c:\users\colin\desktop\toolbox_for_student\폻ⓕ\framework\image.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<windows.h>
+	"console_draw3.h"
+	"kb_input2.h"
+	"image.h"
+
+1419989929 c:\users\colin\desktop\toolbox_for_student\폻ⓕ\framework\image.h
+
+1419988852 source:c:\users\colin\desktop\toolbox_for_student\폻ⓕ\framework\kb_input2.c
+	"kb_input2.h"
+
+1481702973 source:c:\users\colin\desktop\toolbox_for_student\폻ⓕ\framework\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<windows.h>
+	<mmsystem.h>
+	"audio.h"
+	"console_draw3.h"
+	"kb_input2.h"
+	"font.h"
+	"image.h"
+	"framework.h"
+
+1481702656 source:c:\users\colin\desktop\toolbox_for_student\폻ⓕ\framework\console_draw3.c
+	<windows.h>
+	<string.h>
+	"console_draw3.h"
+
+1419990366 source:c:\users\nthucs\desktop\toolbox_for_student\폻ⓕ\framework\audio.c
+	"audio.h"
+
+1260885116 c:\users\nthucs\desktop\toolbox_for_student\폻ⓕ\framework\audio.h
+	<windows.h>
+	<mmsystem.h>
+	<stdio.h>
+	<stdlib.h>
+
+1481702210 source:c:\users\nthucs\desktop\toolbox_for_student\폻ⓕ\framework\console_draw3.c
+	<windows.h>
+	<string.h>
+	"console_draw3.h"
+
+1481851486 c:\users\nthucs\desktop\toolbox_for_student\폻ⓕ\framework\console_draw3.h
+
+1481702812 source:c:\users\nthucs\desktop\toolbox_for_student\폻ⓕ\framework\font.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<ctype.h>
+	<windows.h>
+	"console_draw3.h"
+	"kb_input2.h"
+	"font.h"
+
+1197486290 c:\users\nthucs\desktop\toolbox_for_student\폻ⓕ\framework\kb_input2.h
+	<windows.h>
+
+1419989952 c:\users\nthucs\desktop\toolbox_for_student\폻ⓕ\framework\font.h
+
+1419998266 source:c:\users\nthucs\desktop\toolbox_for_student\폻ⓕ\framework\framework.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<windows.h>
+	"console_draw3.h"
+	"kb_input2.h"
+	"font.h"
+	"framework.h"
+
+1420006908 c:\users\nthucs\desktop\toolbox_for_student\폻ⓕ\framework\framework.h
+	"font.h"
+
+1481690962 source:c:\users\nthucs\desktop\toolbox_for_student\폻ⓕ\framework\image.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<windows.h>
+	"console_draw3.h"
+	"kb_input2.h"
+	"image.h"
+
+1419989930 c:\users\nthucs\desktop\toolbox_for_student\폻ⓕ\framework\image.h
+
+1419988854 source:c:\users\nthucs\desktop\toolbox_for_student\폻ⓕ\framework\kb_input2.c
+	"kb_input2.h"
+
+1481704622 source:c:\users\nthucs\desktop\toolbox_for_student\폻ⓕ\framework\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<windows.h>
+	<mmsystem.h>
+	"audio.h"
+	"console_draw3.h"
+	"kb_input2.h"
+	"font.h"
+	"image.h"
+	"framework.h"
+

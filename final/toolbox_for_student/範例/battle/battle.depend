@@ -1,0 +1,188 @@
+# depslib dependency file v1.0
+1387936738 source:d:\i2p2013\code\battle\battle.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<ctype.h>
+	<windows.h>
+	<mmsystem.h>
+	"console_draw.h"
+
+1197186932 d:\i2p2013\code\battle\console_draw.h
+	<windows.h>
+
+1194969254 d:\i2p2013\code\battle\kb_input.h
+	<windows.h>
+
+1194961774 source:d:\i2p2013\code\battle\console_draw.c
+	"console_draw.h"
+
+1194969236 source:d:\i2p2013\code\battle\kb_input.c
+	"kb_input.h"
+
+1387936738 source:d:\software\dropbox\dropbox\introduction to programming\final_project\term_project_toolbox\term_project_toolbox\battle\battle\battle.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<ctype.h>
+	<windows.h>
+	<mmsystem.h>
+	"console_draw.h"
+
+1197186932 d:\software\dropbox\dropbox\introduction to programming\final_project\term_project_toolbox\term_project_toolbox\battle\battle\console_draw.h
+	<windows.h>
+
+1194961774 source:d:\software\dropbox\dropbox\introduction to programming\final_project\term_project_toolbox\term_project_toolbox\battle\battle\console_draw.c
+	"console_draw.h"
+
+1194969236 source:d:\software\dropbox\dropbox\introduction to programming\final_project\term_project_toolbox\term_project_toolbox\battle\battle\kb_input.c
+	"kb_input.h"
+
+1194969254 d:\software\dropbox\dropbox\introduction to programming\final_project\term_project_toolbox\term_project_toolbox\battle\battle\kb_input.h
+	<windows.h>
+
+1450318859 source:c:\users\yu-ju\desktop\introduction to programming\final_project\term_project_toolbox\term_project_toolbox\battle\battle\battle.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<ctype.h>
+	<windows.h>
+	<mmsystem.h>
+	"console_draw.h"
+
+1423636370 c:\users\yu-ju\desktop\introduction to programming\final_project\term_project_toolbox\term_project_toolbox\battle\battle\console_draw.h
+	<windows.h>
+
+1423636370 source:c:\users\yu-ju\desktop\introduction to programming\final_project\term_project_toolbox\term_project_toolbox\battle\battle\console_draw.c
+	"console_draw.h"
+
+1423636370 source:c:\users\yu-ju\desktop\introduction to programming\final_project\term_project_toolbox\term_project_toolbox\battle\battle\kb_input.c
+	"kb_input.h"
+
+1423636370 c:\users\yu-ju\desktop\introduction to programming\final_project\term_project_toolbox\term_project_toolbox\battle\battle\kb_input.h
+	<windows.h>
+
+1450342013 source:c:\users\yu-ju\desktop\battle\battle.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<ctype.h>
+	<windows.h>
+	<mmsystem.h>
+	"console_draw3.h"
+
+1423636370 c:\users\yu-ju\desktop\battle\console_draw.h
+	<windows.h>
+
+1423636370 source:c:\users\yu-ju\desktop\battle\console_draw.c
+	"console_draw.h"
+
+1423636370 source:c:\users\yu-ju\desktop\battle\kb_input.c
+	"kb_input.h"
+
+1423636370 c:\users\yu-ju\desktop\battle\kb_input.h
+	<windows.h>
+
+1419998119 c:\users\yu-ju\desktop\battle\console_draw3.h
+
+1420017857 source:c:\users\yu-ju\desktop\battle\console_draw3.c
+	<windows.h>
+	<string.h>
+	"console_draw3.h"
+
+1423636370 source:c:\users\yu-ju\desktop\battle\kb_input2.c
+	"kb_input2.h"
+
+1423636370 c:\users\yu-ju\desktop\battle\kb_input2.h
+	<windows.h>
+
+1450342013 source:c:\users\cha\desktop\toolbox_for_student\폻ⓕ\battle\battle.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<ctype.h>
+	<windows.h>
+	<mmsystem.h>
+	"console_draw3.h"
+
+1419998119 c:\users\cha\desktop\toolbox_for_student\폻ⓕ\battle\console_draw3.h
+
+1420017857 source:c:\users\cha\desktop\toolbox_for_student\폻ⓕ\battle\console_draw3.c
+	<windows.h>
+	<string.h>
+	"console_draw3.h"
+
+1450342013 source:c:\users\ydnaa\onedrive\documents\eecs_i2p\final_project\toolbox_for_student\toolbox_for_student\폻ⓕ\battle\battle.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<ctype.h>
+	<windows.h>
+	<mmsystem.h>
+	"console_draw3.h"
+
+1419998119 c:\users\ydnaa\onedrive\documents\eecs_i2p\final_project\toolbox_for_student\toolbox_for_student\폻ⓕ\battle\console_draw3.h
+
+1420017857 source:c:\users\ydnaa\onedrive\documents\eecs_i2p\final_project\toolbox_for_student\toolbox_for_student\폻ⓕ\battle\console_draw3.c
+	<windows.h>
+	<string.h>
+	"console_draw3.h"
+
+1419988852 source:c:\users\ydnaa\onedrive\documents\eecs_i2p\final_project\toolbox_for_student\toolbox_for_student\폻ⓕ\battle\kb_input2.c
+	"kb_input2.h"
+
+1197486290 c:\users\ydnaa\onedrive\documents\eecs_i2p\final_project\toolbox_for_student\toolbox_for_student\폻ⓕ\battle\kb_input2.h
+	<windows.h>
+
+1481703553 source:c:\users\colin\desktop\toolbox_for_student\폻ⓕ\battle\battle.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<ctype.h>
+	<windows.h>
+	<mmsystem.h>
+	"console_draw3.h"
+
+1481702208 c:\users\colin\desktop\toolbox_for_student\폻ⓕ\battle\console_draw3.h
+
+1419988852 source:c:\users\colin\desktop\toolbox_for_student\폻ⓕ\battle\kb_input2.c
+	"kb_input2.h"
+
+1197486290 c:\users\colin\desktop\toolbox_for_student\폻ⓕ\battle\kb_input2.h
+	<windows.h>
+
+1481702209 source:c:\users\colin\desktop\toolbox_for_student\폻ⓕ\battle\console_draw3.c
+	<windows.h>
+	<string.h>
+	"console_draw3.h"
+
+1481702210 source:c:\users\nthucs\desktop\toolbox_for_student\폻ⓕ\battle\console_draw3.c
+	<windows.h>
+	<string.h>
+	"console_draw3.h"
+
+1481851486 c:\users\nthucs\desktop\toolbox_for_student\폻ⓕ\battle\console_draw3.h
+
+1419988854 source:c:\users\nthucs\desktop\toolbox_for_student\폻ⓕ\battle\kb_input2.c
+	"kb_input2.h"
+
+1197486290 c:\users\nthucs\desktop\toolbox_for_student\폻ⓕ\battle\kb_input2.h
+	<windows.h>
+
+1481704534 source:c:\users\nthucs\desktop\toolbox_for_student\폻ⓕ\battle\battle.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<ctype.h>
+	<windows.h>
+	<mmsystem.h>
+	"console_draw3.h"
+

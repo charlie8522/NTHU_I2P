@@ -1,0 +1,201 @@
+# depslib dependency file v1.0
+1356460790 source:c:\users\htchen\desktop\i2p12\term\term_examples\tetris\console_draw2.c
+	"console_draw2.h"
+
+1356460981 c:\users\htchen\desktop\i2p12\term\term_examples\tetris\console_draw2.h
+	<windows.h>
+
+1197485698 source:c:\users\htchen\desktop\i2p12\term\term_examples\tetris\kb_input2.c
+	"kb_input2.h"
+
+1197486290 c:\users\htchen\desktop\i2p12\term\term_examples\tetris\kb_input2.h
+	<windows.h>
+
+1356634816 source:c:\users\htchen\desktop\i2p12\term\term_examples\tetris\tetris.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<windows.h>
+	<mmsystem.h>
+	"console_draw2.h"
+	"kb_input2.h"
+
+1356460792 source:d:\i2p2013\term\term_examples\tetris\console_draw2.c
+	"console_draw2.h"
+
+1356460982 d:\i2p2013\term\term_examples\tetris\console_draw2.h
+	<windows.h>
+
+1197485698 source:d:\i2p2013\term\term_examples\tetris\kb_input2.c
+	"kb_input2.h"
+
+1197486290 d:\i2p2013\term\term_examples\tetris\kb_input2.h
+	<windows.h>
+
+1388340238 source:d:\i2p2013\term\term_examples\tetris\tetris.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<windows.h>
+	<mmsystem.h>
+	"console_draw2.h"
+	"kb_input2.h"
+
+1356460792 source:c:\users\leaf\desktop\introduction to programming\final_project\term_project_toolbox\term_project_toolbox\tetris\tetris\console_draw2.c
+	"console_draw2.h"
+
+1356460982 c:\users\leaf\desktop\introduction to programming\final_project\term_project_toolbox\term_project_toolbox\tetris\tetris\console_draw2.h
+	<windows.h>
+
+1197485698 source:c:\users\leaf\desktop\introduction to programming\final_project\term_project_toolbox\term_project_toolbox\tetris\tetris\kb_input2.c
+	"kb_input2.h"
+
+1197486290 c:\users\leaf\desktop\introduction to programming\final_project\term_project_toolbox\term_project_toolbox\tetris\tetris\kb_input2.h
+	<windows.h>
+
+1388340238 source:c:\users\leaf\desktop\introduction to programming\final_project\term_project_toolbox\term_project_toolbox\tetris\tetris\tetris.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<windows.h>
+	<mmsystem.h>
+	"console_draw2.h"
+	"kb_input2.h"
+
+1356460792 source:c:\users\leaf\desktop\tetris\console_draw2.c
+	"console_draw2.h"
+
+1356460982 c:\users\leaf\desktop\tetris\console_draw2.h
+	<windows.h>
+
+1419988852 source:c:\users\leaf\desktop\tetris\kb_input2.c
+	"kb_input2.h"
+
+1197486290 c:\users\leaf\desktop\tetris\kb_input2.h
+	<windows.h>
+
+1450355763 source:c:\users\leaf\desktop\tetris\tetris.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<windows.h>
+	<mmsystem.h>
+	"console_draw3.h"
+	"kb_input2.h"
+
+1420017857 source:c:\users\leaf\desktop\tetris\console_draw3.c
+	<windows.h>
+	<string.h>
+	"console_draw3.h"
+
+1419998119 c:\users\leaf\desktop\tetris\console_draw3.h
+
+1420017857 source:c:\users\cha\desktop\toolbox_for_student\폻ⓕ\tetris\console_draw3.c
+	<windows.h>
+	<string.h>
+	"console_draw3.h"
+
+1419998119 c:\users\cha\desktop\toolbox_for_student\폻ⓕ\tetris\console_draw3.h
+
+1419988852 source:c:\users\cha\desktop\toolbox_for_student\폻ⓕ\tetris\kb_input2.c
+	"kb_input2.h"
+
+1197486290 c:\users\cha\desktop\toolbox_for_student\폻ⓕ\tetris\kb_input2.h
+	<windows.h>
+
+1450355763 source:c:\users\cha\desktop\toolbox_for_student\폻ⓕ\tetris\tetris.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<windows.h>
+	<mmsystem.h>
+	"console_draw3.h"
+	"kb_input2.h"
+
+1419988852 source:d:\downloads\toolbox_for_student\폻ⓕ\tetris\kb_input2.c
+	"kb_input2.h"
+
+1197486290 d:\downloads\toolbox_for_student\폻ⓕ\tetris\kb_input2.h
+	<windows.h>
+
+1481631698 source:d:\downloads\toolbox_for_student\폻ⓕ\tetris\tetris.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<windows.h>
+	<mmsystem.h>
+	"console_draw3.h"
+	"kb_input2.h"
+
+1481631877 d:\downloads\toolbox_for_student\폻ⓕ\tetris\console_draw3.h
+
+1419988852 source:d:\download\toolbox_for_student\폻ⓕ\tetris\kb_input2.c
+	"kb_input2.h"
+
+1197486290 d:\download\toolbox_for_student\폻ⓕ\tetris\kb_input2.h
+	<windows.h>
+
+1481631698 source:d:\download\toolbox_for_student\폻ⓕ\tetris\tetris.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<windows.h>
+	<mmsystem.h>
+	"console_draw3.h"
+	"kb_input2.h"
+
+1481691088 d:\download\toolbox_for_student\폻ⓕ\tetris\console_draw3.h
+
+1419988852 source:c:\users\colin\desktop\toolbox_for_student\폻ⓕ\tetris\kb_input2.c
+	"kb_input2.h"
+
+1197486290 c:\users\colin\desktop\toolbox_for_student\폻ⓕ\tetris\kb_input2.h
+	<windows.h>
+
+1481631698 source:c:\users\colin\desktop\toolbox_for_student\폻ⓕ\tetris\tetris.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<windows.h>
+	<mmsystem.h>
+	"console_draw3.h"
+	"kb_input2.h"
+
+1481702208 c:\users\colin\desktop\toolbox_for_student\폻ⓕ\tetris\console_draw3.h
+
+1481702209 source:c:\users\colin\desktop\toolbox_for_student\폻ⓕ\tetris\console_draw3.c
+	<windows.h>
+	<string.h>
+	"console_draw3.h"
+
+1481702210 source:c:\users\nthucs\desktop\toolbox_for_student\폻ⓕ\tetris\console_draw3.c
+	<windows.h>
+	<string.h>
+	"console_draw3.h"
+
+1481851486 c:\users\nthucs\desktop\toolbox_for_student\폻ⓕ\tetris\console_draw3.h
+
+1419988854 source:c:\users\nthucs\desktop\toolbox_for_student\폻ⓕ\tetris\kb_input2.c
+	"kb_input2.h"
+
+1197486290 c:\users\nthucs\desktop\toolbox_for_student\폻ⓕ\tetris\kb_input2.h
+	<windows.h>
+
+1481631700 source:c:\users\nthucs\desktop\toolbox_for_student\폻ⓕ\tetris\tetris.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<windows.h>
+	<mmsystem.h>
+	"console_draw3.h"
+	"kb_input2.h"
+

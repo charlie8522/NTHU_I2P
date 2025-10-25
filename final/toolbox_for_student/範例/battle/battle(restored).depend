@@ -1,0 +1,45 @@
+# depslib dependency file v1.0
+1387936738 source:d:\i2p2013\code\battle\battle.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<ctype.h>
+	<windows.h>
+	<mmsystem.h>
+	"console_draw.h"
+
+1197186932 d:\i2p2013\code\battle\console_draw.h
+	<windows.h>
+
+1194969254 d:\i2p2013\code\battle\kb_input.h
+	<windows.h>
+
+1194961774 source:d:\i2p2013\code\battle\console_draw.c
+	"console_draw.h"
+
+1194969236 source:d:\i2p2013\code\battle\kb_input.c
+	"kb_input.h"
+
+1418714737 source:c:\users\wooder\dropbox\lab電腦\課程\introduction to programming\final_project\term_project_toolbox\term_project_toolbox\battle\battle\battle.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<ctype.h>
+	<windows.h>
+	<mmsystem.h>
+	"console_draw.h"
+
+1197186932 c:\users\wooder\dropbox\lab電腦\課程\introduction to programming\final_project\term_project_toolbox\term_project_toolbox\battle\battle\console_draw.h
+	<windows.h>
+
+1194961774 source:c:\users\wooder\dropbox\lab電腦\課程\introduction to programming\final_project\term_project_toolbox\term_project_toolbox\battle\battle\console_draw.c
+	"console_draw.h"
+
+1194969236 source:c:\users\wooder\dropbox\lab電腦\課程\introduction to programming\final_project\term_project_toolbox\term_project_toolbox\battle\battle\kb_input.c
+	"kb_input.h"
+
+1194969254 c:\users\wooder\dropbox\lab電腦\課程\introduction to programming\final_project\term_project_toolbox\term_project_toolbox\battle\battle\kb_input.h
+	<windows.h>
+

@@ -1,0 +1,100 @@
+# depslib dependency file v1.0
+1450347340 source:c:\users\cha\desktop\toolbox_for_student\폻ⓕ\tank\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<windows.h>
+	<mmsystem.h>
+	"audio.h"
+	"console_draw3.h"
+	"kb_input2.h"
+
+1260885116 c:\users\cha\desktop\toolbox_for_student\폻ⓕ\tank\audio.h
+	<windows.h>
+	<mmsystem.h>
+	<stdio.h>
+	<stdlib.h>
+
+1419998119 c:\users\cha\desktop\toolbox_for_student\폻ⓕ\tank\console_draw3.h
+
+1197486290 c:\users\cha\desktop\toolbox_for_student\폻ⓕ\tank\kb_input2.h
+	<windows.h>
+
+1419990365 source:c:\users\cha\desktop\toolbox_for_student\폻ⓕ\tank\audio.c
+	"audio.h"
+
+1420017857 source:c:\users\cha\desktop\toolbox_for_student\폻ⓕ\tank\console_draw3.c
+	<windows.h>
+	<string.h>
+	"console_draw3.h"
+
+1419988852 source:c:\users\cha\desktop\toolbox_for_student\폻ⓕ\tank\kb_input2.c
+	"kb_input2.h"
+
+1419990365 source:d:\downloads\toolbox_for_student\폻ⓕ\tank\audio.c
+	"audio.h"
+
+1260885116 d:\downloads\toolbox_for_student\폻ⓕ\tank\audio.h
+	<windows.h>
+	<mmsystem.h>
+	<stdio.h>
+	<stdlib.h>
+
+1481631724 source:d:\downloads\toolbox_for_student\폻ⓕ\tank\console_draw3.c
+	<windows.h>
+	<string.h>
+	"console_draw3.h"
+
+1481631877 d:\downloads\toolbox_for_student\폻ⓕ\tank\console_draw3.h
+
+1419988852 source:d:\downloads\toolbox_for_student\폻ⓕ\tank\kb_input2.c
+	"kb_input2.h"
+
+1197486290 d:\downloads\toolbox_for_student\폻ⓕ\tank\kb_input2.h
+	<windows.h>
+
+1481644233 source:d:\downloads\toolbox_for_student\폻ⓕ\tank\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<windows.h>
+	<mmsystem.h>
+	"audio.h"
+	"console_draw3.h"
+	"kb_input2.h"
+
+1419990366 source:c:\users\nthucs\desktop\toolbox_for_student\폻ⓕ\tank\audio.c
+	"audio.h"
+
+1260885116 c:\users\nthucs\desktop\toolbox_for_student\폻ⓕ\tank\audio.h
+	<windows.h>
+	<mmsystem.h>
+	<stdio.h>
+	<stdlib.h>
+
+1419988854 source:c:\users\nthucs\desktop\toolbox_for_student\폻ⓕ\tank\kb_input2.c
+	"kb_input2.h"
+
+1197486290 c:\users\nthucs\desktop\toolbox_for_student\폻ⓕ\tank\kb_input2.h
+	<windows.h>
+
+1481702210 source:c:\users\nthucs\desktop\toolbox_for_student\폻ⓕ\tank\console_draw3.c
+	<windows.h>
+	<string.h>
+	"console_draw3.h"
+
+1481851486 c:\users\nthucs\desktop\toolbox_for_student\폻ⓕ\tank\console_draw3.h
+
+1481964334 source:c:\users\nthucs\desktop\toolbox_for_student\폻ⓕ\tank\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<windows.h>
+	<mmsystem.h>
+	"audio.h"
+	"console_draw3.h"
+	"kb_input2.h"
+
